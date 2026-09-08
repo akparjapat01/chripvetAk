@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "229136364968",
+    "firebase_url": "https://chirp-vet-mentors-app-default-rtdb.firebaseio.com",
+    "project_id": "chirp-vet-mentors-app",
+    "storage_bucket": "chirp-vet-mentors-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229136364968:android:0d63292d293280b43d599d",
+        "android_client_info": {
+          "package_name": "com.chirpvet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229136364968-7cgaetvu14vkfnlm05j88se5m6uoudtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgr7JNckNc9RO1A9SJYConx2N7vsjnbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229136364968-7cgaetvu14vkfnlm05j88se5m6uoudtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
